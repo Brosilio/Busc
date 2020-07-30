@@ -1,4 +1,4 @@
-# Busc
+# IRQchat
 Text chat with bus contention.
 
 ## what
